@@ -36,4 +36,4 @@
 <hr>
 
 ## Для пожертвований
-QIWI: <a>qiwi.com/n/YEDUC487</a>
+QIWI: https://qiwi.com/n/YEDUC487
